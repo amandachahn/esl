@@ -1,6 +1,6 @@
-lsi: false
+llsi: false
 safe: true
-source: [your repo's top level directory]
+source: esl
 incremental: false
 highlighter: rouge
 gist:
