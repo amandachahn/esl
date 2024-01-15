@@ -59,6 +59,8 @@ liquid:
   strict_filters    : false
   strict_variables  : false
 
+theme: jekyll-theme-minimal
+
 # Markdown Processors
 kramdown:
   auto_ids          : true
