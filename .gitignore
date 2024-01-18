@@ -3,7 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-_posts\2024-01-14-welcome-to-jekyll.markdown #ignored but retained for useful tips and instructions
+
+#ignored but retained for useful tips and instructions
+_posts\2024-01-14-welcome-to-jekyll.markdown
 
 # ignore files not relevant to general public
 QRcode_idioms with jill_lapl.png
