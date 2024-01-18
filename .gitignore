@@ -1,0 +1,15 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+#ignored but retained for useful tips and instructions
+_local_help
+
+# ignore files not relevant to general public
+QRcode_idioms with jill_lapl.png
+Library resources.odt
+
+# ignore files I did not create
+in_the_loop_pages.pdf
