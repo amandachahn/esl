@@ -5,7 +5,7 @@ _site
 vendor
 
 #ignored but retained for useful tips and instructions
-_posts\2024-01-14-welcome-to-jekyll.markdown
+_local_help
 
 # ignore files not relevant to general public
 QRcode_idioms with jill_lapl.png
