@@ -3,3 +3,10 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# ignore files not relevant to general public
+QRcode_idioms with jill_lapl.png
+Library resources.odt
+
+# ignore files I did not create
+in_the_loop_pages.pdf
