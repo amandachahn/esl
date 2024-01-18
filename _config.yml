@@ -27,7 +27,7 @@ url: "https://amandachahn.github.io/esl" # the base hostname & protocol for your
 show_excerpts: true
 
 # Build settings
-remote_theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -39,11 +39,10 @@ defaults:
 
 
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-# header_pages:
-#  - about.markdown
-#  - resources.md
+# If you want to link only specific pages in your header, uncomment this and add the path to the pages in order as they should show up
+header_pages:
+ - about.markdown
+ - resources.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
